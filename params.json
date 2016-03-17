@@ -1,0 +1,6 @@
+{
+  "name": "Wundr",
+  "tagline": "R package providing an API Interface to wunderground.com with advanced geospatial and analytical tools",
+  "body": "###wundr\r\nR package providing an API interfaces to Personal Weather Station (PWS) data maintained by Weather Underground (wunderground.com). ‘wundr' represents a robust retrieval mechanism of data and computational tools for visual and spatial analysis as well as forecasting through Gaussian Kriging. The package also includes an additional facility to export data to CartoDB’s spatial database hosting and webmap publishing platform.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
